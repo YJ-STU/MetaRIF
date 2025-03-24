@@ -1,0 +1,3 @@
+MetaRIF: A Classifier for Recurrent Implantation Failure (RIF)
+=====
+Recurrent Implantation Failure (RIF) is a major challenge for achieving pregnancy by embryo transfer, which still lacks effective treatment options. In this study, we discovered two distinct molecular subtypes of RIF, characterized uniquely by immunological (RIF-I) and metabolic (RIF-M) dysfunctions. We then developed a classifier, MetaRIF, for diagnosis of the two types of RIF, which showed significant predictive power in two independent validation cohorts. These findings provided new insights on the endometrial causes of transplantation failure and inspire further development of personalized treatments for RIF.
